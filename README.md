@@ -18,7 +18,7 @@ In this tutorial, you'll discover how to:
 
 ## Video Tutorial
 
-Watch the full tutorial on our [YouTube Channel]([https://www.youtube.com/your-channel-link](https://youtu.be/FpsMFSw6Wf0)) to see the multi-agent system in action. This video is designed to empower you with practical, industry-relevant AI skills!
+Watch the full tutorial on our [YouTube Channel]([https://youtu.be/FpsMFSw6Wf0]) to see the multi-agent system in action. This video is designed to empower you with practical, industry-relevant AI skills!
 
 ## Getting Started
 
